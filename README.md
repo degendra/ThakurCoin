@@ -2,4 +2,4 @@
 
 ### Steps: ###
 1. npm install
-1. nodejs src/man.js
+1. node src/main.js
